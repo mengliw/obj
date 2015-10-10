@@ -1,0 +1,10 @@
+{
+    "name": "obj",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "obj.xml",
+    "author": "mengliw",
+    "minimum_firmware_version": 42
+}
